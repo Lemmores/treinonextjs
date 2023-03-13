@@ -1,1 +1,1 @@
-# treinonextjs
+# BASE PARA TREINAR O REACT NEXT JS
