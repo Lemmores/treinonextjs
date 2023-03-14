@@ -1,7 +1,7 @@
 .navbar {
   display: flex;
   background-color: #000;
-  padding: 20px 10px;
+  padding: 10px 10px;
 }
 
 .navbar a {
@@ -14,3 +14,13 @@
 .navbar a:hover {
   color: #999;
 }
+
+.navbar li{
+  margin-top: 40px;
+  margin-left: 15px;
+ 
+}
+
+.navbar img{
+  justify-content:left;
+} 
