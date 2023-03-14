@@ -16,10 +16,7 @@ export default function Navbar() {
         <Link href="/todos">Todos</Link>
       </li>
       <li>
-        <Link href="/products">Produtos</Link>
-      </li>
-      <li>
-        <Link href="/about">Sobre</Link>
+        <Link href="/local">Localização</Link>
       </li>
       <li>
         <Link href="/contact">Contato</Link>
