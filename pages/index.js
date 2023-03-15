@@ -27,8 +27,9 @@ export default function Home() {
        <br></br>
       <br></br>
       <h2>🙅🏻‍♂️EXQUEÇA TUDO!🙅🏻‍♂️</h2>
-      
-  
+      <br></br>
+      <br></br>
+      <h4>Confira o local ou tire suas dúvidas sobre a LemosParty na barra de navegação.</h4>
       
     </>
   )}

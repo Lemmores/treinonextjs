@@ -10,6 +10,7 @@ export default function Contact() {
     <br></br>
     <br></br>
     <br></br>
+    <br></br>
     <button type="button" style={{color: "white", backgroundColor: "white", height: "80px",
 	width: "300px", borderColor: "white"}} > 
     
